@@ -1,0 +1,6 @@
+{
+  "name": "Website Profil Sekolah Premium",
+  "description": "Template website profil sekolah premium Indonesia yang modern, interaktif, responsif, dan mendukung mode gelap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
